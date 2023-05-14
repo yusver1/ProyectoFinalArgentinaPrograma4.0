@@ -1,54 +1,62 @@
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\PersonaController.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTEntryPoint.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SHabilidadesDuras.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\RolService.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SHabilidadesBlandas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\UsuarioPrincipal.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoExperiencia.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RExperiencia.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CProyectos.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CEducacion.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\HabilidadesBlandas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\MainSecurity.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoIdiomas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CIdiomas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\NuevoUsuario.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SIdiomas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoProyectos.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Experiencia.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CExperiencia.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SProyectos.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CHabilidadesBlandas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Repository\iRolRepository.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\UserDetailsImpl.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\HabilidadesDuras.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RHabilidadesDuras.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SEducacion.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\PortfolioBackApplication.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoEducacion.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Educacion.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Controller\AuthController.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Controller\Mensaje.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\ImpPersonaService.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\REducacion.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoHabilidadesBlandas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTTokenFilter.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CHabilidadesDuras.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoPersona.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RIdiomas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\Rol.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\Usuario.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\UsuarioService.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Idiomas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RProyectos.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Persona.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Enums\RolNombre.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoHabilidadesDuras.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Repository\iUsuarioRepository.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Proyectos.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\LoginUsuario.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTProvider.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\JWTDTO.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RHabilidadesBlandas.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SExperiencia.java
-E:\ProyectoIntegrador-Yusver\mas proyectos\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\IPersonaRepository.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\HabilidadesController.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoHys.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CEducacion.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CIdiomas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTProvider.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\MainSecurity.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Persona.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\Rhys.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SEducacion.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Experiencia.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTEntryPoint.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SHabilidadesDuras.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RProyectos.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\LoginUsuario.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\JWTDTO.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\HabilidadesDuras.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoExperiencia.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RExperiencia.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\hys.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoIdiomas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\IPersonaRepository.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Repository\iRolRepository.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\REducacion.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoPersona.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CHabilidadesDuras.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CHys.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Proyectos.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SProyectos.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\PortfolioBackApplication.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Controller\Mensaje.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoProyectos.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Educacion.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Enums\RolNombre.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\Shys.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CHabilidadesBlandas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RHabilidadesDuras.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SExperiencia.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoEducacion.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RHabilidadesBlandas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\ImpPersonaService.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Idiomas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoHabilidadesBlandas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Controller\AuthController.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CProyectos.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\jwt\JWTTokenFilter.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\Rol.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\PersonaController.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\Usuario.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\dto\dtoHabilidadesDuras.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\RolService.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\UsuarioService.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Entity\UsuarioPrincipal.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Controller\CExperiencia.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SHabilidadesBlandas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Service\UserDetailsImpl.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\RIdiomas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\Habilidades.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Entity\HabilidadesBlandas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Dto\NuevoUsuario.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Service\SIdiomas.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Repository\HabilidadesRepository.java
+C:\Users\gabri\Documents\ProyectoFinalArgentinaPrograma4.0\MyPortfolio_BackEnd-master\src\main\java\com\portfolio\portfolioback\Security\Repository\iUsuarioRepository.java
