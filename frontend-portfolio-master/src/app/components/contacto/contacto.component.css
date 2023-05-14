@@ -1,0 +1,85 @@
+/* Contacto */
+
+.contacto {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    margin: 20px 150px;
+    border-radius: 20px;
+    background: white;
+}
+
+.contacto h1 {
+    margin: 30px auto;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.contacto .card {
+    border-radius: 20px;
+    margin: auto auto 30px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3); 
+    height: 150px;
+    background-color: #e2ebf1;
+}
+
+.contacto i {
+    color: #1c243c;
+    font-size: 23px;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+
+.contacto .card-title {
+    color: #1c243c;
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.contacto .card-text {
+    margin: 20px auto;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+    color:#1c243c;
+    text-align: center;
+}
+
+.contacto .card-body a i {
+    margin: 8px 15px;
+    font-size: 25px;
+    color:#1c243c;
+    justify-self: end;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    background-color: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.contacto .card-body a i:hover {
+    color: #2e536c;
+}
+
+@media (max-width: 1300px) {
+    .contacto {
+        margin: 30px 20px;        
+    }    
+    .contacto .card-text {
+        font-size: 17px;
+    }
+    .contacto .card-title {
+        font-size: 20px;
+    }
+    .contacto i {
+        font-size: 20px;
+    }
+    .contacto .card-body a i {
+        font-size: 20px;
+    }
+}

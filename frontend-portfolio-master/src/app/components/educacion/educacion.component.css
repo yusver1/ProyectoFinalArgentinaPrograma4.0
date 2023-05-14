@@ -1,0 +1,155 @@
+/* Educación */
+
+    .educacion {
+        box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+        margin: 30px 150px;
+        border-radius: 20px;
+        padding: 7px;
+        color: #1c243c;
+    }
+
+    .educacion h1 {
+        margin: 30px auto;
+        letter-spacing: 2px;
+        font-family: 'Signika Negative', sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+
+    .educacion img {
+        margin: 15px 15px;
+    }
+
+    .educacion h2 {
+        margin: 10px 30px;
+        letter-spacing: 2px;
+        font-family: 'Signika Negative', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .educacion h3 {
+        margin: 10px 30px;
+        letter-spacing: 2px;
+        font-family: 'Signika Negative', sans-serif;
+        font-size: 17px;
+        font-weight: bold;
+        color: #2e536c;
+    }
+
+    .educacion h4 {
+        letter-spacing: 2px;
+        font-family: 'Signika Negative', sans-serif;
+        font-size: 17px;
+        font-weight: bold;
+        color: #2e536c;
+        text-align: end;
+        margin: 10px 50px;
+    }
+
+    .educacion p {
+        margin: 10px 30px;
+        letter-spacing: 2px;
+        font-family: 'Signika Negative', sans-serif;
+        font-size: 17px;
+        color:#1c243c;
+    }
+
+    .educacion .descripcion {
+        margin-bottom: 25px;
+    }
+
+    .btn-educacion {
+        color: #1c243c;
+        border-radius: 50%;
+        padding: 12px;
+        height: 20px;
+        width: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 10px;
+        margin-top: 5.7px;
+    }
+    
+    .btn-educacion:hover {
+        border-color: #1c243c;
+        border-width: 2px;
+    }
+
+
+    .btn:hover {
+        color: #1c243c;
+     }
+
+    .btn-educacion i {
+        font-size: 20px;
+    }
+
+    .acciones {
+        text-align: end;
+        margin-right: 50px;
+        margin-top: -30px;
+        margin-bottom: 20px;
+    }
+
+    .btn-editar {
+        color: #5e5e5e;
+    }
+
+    .btn-eliminar {
+        color: #dc3545;
+    }
+
+    @media (max-width: 992px) {
+        .educacion {
+            margin: 30px 20px;
+        }
+        .educacion img {
+            display: block;
+            height: 60px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .educacion h2 {
+            text-align: center;
+            margin-top: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .educacion h3 {
+            text-align: center;
+            margin-top: 10px;
+            font-style: italic;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .educacion h4 {
+            text-align: center;
+            margin-top: 5px; 
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .educacion p {
+            text-align: center;
+            margin-top: 15px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .educacion a {
+            margin-right: 0px;
+            margin-left: 0px;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .educacion p {
+            text-align: left;
+        }
+    }

@@ -1,0 +1,104 @@
+/* Perfil */
+
+.perfil img {
+    border-radius: 20px 0px 0px 20px;
+    height: 100%;
+}
+#justificar{
+  text-align: justify;
+}
+
+.derecha{
+  position: absolute;
+    left: 75%;
+}
+.perfil {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+
+    border-radius: 20px;
+    background: rgb(165, 211, 238);
+}
+
+.perfil h1 {
+    margin: 30px 10px;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.perfil p {
+    margin: 30px 10px;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.botoneras {
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn-perfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1c243c;
+    height: 35px;
+    width: 300px;
+    color: white;
+    text-transform: uppercase;
+    margin: 5px 15px;
+    text-align: center;
+  }
+
+.btn-perfil p {
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+.btn-perfil:hover {
+    border-color: #1c243c;
+    border-width: 2px;
+}
+
+@media (max-width: 992px) {
+    .perfil img {
+        display: flex;
+        margin: 30px auto;
+        justify-self: center;
+        height: 300px;
+        border-radius: 20px;
+    }
+    .perfil {
+        margin: 30px 20px;
+    }
+    .perfil h1 {
+        text-align: center;
+        margin: -30px 5px;
+    }
+    .perfil p {
+        text-align: center;
+        margin: 40px 5px;
+    }
+    .perfil a {
+        display: flex;
+        justify-content: center;
+        margin-right: auto;
+        color: #e2ebf1
+    }
+    .btn-perfil {
+        height: 70px;
+        line-height: 1.5;
+        margin: -20px auto 70px;
+    }
+
+    #justificar{
+      text-align: justify;
+    }
+}

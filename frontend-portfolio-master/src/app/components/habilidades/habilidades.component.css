@@ -1,0 +1,139 @@
+/* Habilidades */
+
+.habilidades {
+    background: #e2ebf1;
+}
+
+
+.habilidades h1 {
+    margin: 30px auto;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.habilidades .nohover {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    margin: -5px 15px;
+    width: 90%;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    background: #7aa3bf;
+    pointer-events: none;
+    position: relative;
+    right: -28%;
+}
+
+.habilidades .blandas {
+    color: #1c243c;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 90%;
+    background: white;
+    padding: 5px;
+    position: relative;
+    right: -28%;
+
+}
+
+
+
+
+
+.habilidades p {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+    margin: auto 5px 20px;
+    display: inline-flex;
+}
+
+.habilidades span {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+    margin: auto 5px 20px;
+}
+
+.habilidades h2 {
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 25px auto 8px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+}
+
+.btn-habilidad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -10px 10px 50px;
+    background-color: #1c243c;
+    width: 230px;
+    color: white;
+    text-transform: uppercase;
+    height: 35px;
+    width: 300px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.botoneras {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-habilidad p {
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 10px 10px 8px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 14px;
+}
+
+.btn-habilidad:hover {
+    border-color: #1c243c;
+    border-width: 2px;
+}
+
+
+.btn:hover {
+    color: #1c243c;
+ }
+
+.btn-habilidad i {
+    font-size: 20px;
+}
+
+.acciones {
+    margin-top: -20px;
+}
+
+.acciones1 {
+    margin-top: -5px;
+}
+
+.btn-eliminar {
+    color: #dc3545;
+}
+
+@media (max-width: 992px) {
+  .habilidades .blandas,.center{
+      display: center;
+
+      height: 300px;
+      border-radius: 20px;
+  }
+}
+
+#derecho{
+  display: table-cell;
+}

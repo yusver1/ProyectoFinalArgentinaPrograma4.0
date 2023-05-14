@@ -1,0 +1,134 @@
+/* Proyectos */
+
+.proyectos {
+    background: #e2ebf1;
+}
+
+.proyectos h1 {
+    margin: 30px auto;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;    
+}
+
+.btn-proyectos {
+    color: #1c243c;
+    border-radius: 50%;
+    padding: 12px;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 5.7px;
+}
+
+.btn-proyectos:hover {
+    border-color: #1c243c;
+    border-width: 2px;
+}
+
+.btn-proyectos i {
+    font-size: 20px;
+}
+
+.proyectos .card {
+    width: 400px;
+    border-radius: 20px;
+    margin: auto auto 15px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    height: 700px;    
+}
+
+img {
+    margin: 30px auto;
+    border-radius: 10px;
+    width: 80%;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+}
+
+.proyectos .card-title {
+    background-color: #7aa3bf;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: -20px auto 20px;
+    text-align: center;
+}
+
+.proyectos .card-text {
+    margin: 10px;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+    color:#1c243c;
+    text-align: center;
+}
+
+
+.proyectos ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.proyectos .card-link {
+    background-color: #1c243c;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+}
+
+.proyectos .card-link:hover {
+    color:#1c243c;
+    border: 2px solid #1c243c;
+    background-color: white;
+}
+
+.proyectos a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    width: 70%
+}
+
+.url {
+    margin-top: -100px;
+}
+
+.btn:hover {
+    color: #1c243c;
+ }
+
+ .acciones {
+    text-align: end;
+    margin-right: 50px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+}
+
+.btn-editar {
+    color: #5e5e5e;
+}
+
+.btn-eliminar {
+    color: #dc3545;
+}
+

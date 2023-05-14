@@ -1,0 +1,80 @@
+body {
+    background-color: #e2ebf1;
+}
+
+.container .botonera {
+    display: block;
+    text-align: center;
+}
+
+form {
+    background-color: #ffffff;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 90%;
+    padding: 20px;
+}
+
+
+.container {
+    background: #e2ebf1;
+    margin: 20px auto;
+    width: 90%;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .container h1 {
+    margin: 30px auto;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container .btn {
+    background-color: #1c243c;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    margin: 0;
+    font-size: 17px;
+    display: inline-block;
+  }
+
+  .container .btn:hover {
+    background-color: transparent;
+    color: #1c243c;
+    border: 2px solid #1c243c;
+}
+  
+  .container .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .container label {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .container input[type=text] {
+    height: 40px;
+    font-size: 16px;
+    font-family: 'Signika Negative', sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+  }
+  
+  .container input[type=text]:focus {
+    outline: none;
+    border: none;
+  }

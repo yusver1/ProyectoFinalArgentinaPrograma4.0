@@ -1,0 +1,32 @@
+/* Mensaje de copyright */
+
+.copyright {
+    display: flex;
+    background-color: #e2ebf1;    
+    font-family: "Manrope", sans-serif;
+    letter-spacing: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 8px;
+}
+
+.copyright p {
+    margin: 3px auto;
+    color: #1c243c
+}
+
+.copyright a {
+    color: #1c243c;
+    font-family: "Manrope", sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.copyright a:hover {
+    color: #7aa3bf;
+}
+

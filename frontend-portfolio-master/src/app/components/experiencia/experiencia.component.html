@@ -1,0 +1,39 @@
+<div class="experiencia" id="experiencia">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <h1>Experiencia
+          <button class="btn btn-experiencia" type="button" routerLink="/nuevaexp" *ngIf="isLogged">
+            <i class="fas fa-plus"></i>
+          </button>
+        </h1>
+      </div>
+    </div>
+
+    <li *ngFor="let Experiencia of expe">
+      <div class="row">
+          <div class="col-sm-12 col-lg-1">
+            <img class="img-fluid"  alt="foto">
+          </div>
+          <div class="col-sm-12 col-lg-7">
+            <h2>{{Experiencia.tituloE}}</h2>
+            <h3>{{Experiencia.nombreE}}</h3>
+          </div>
+          <div class="col-sm-12 col-lg-4">
+            <h4>{{Experiencia.fechaE}}</h4>
+          </div>
+      </div>
+      <div class="row descripcion">
+        <div class="col-sm-12 col-md-11 offset-md-1">
+          <p>{{Experiencia.descripcionE}}</p>
+        </div>
+      </div>
+      <div class="row" *ngIf="isLogged">
+        <div class="col acciones">
+          <button class="btn btn-editar" routerLink="/editexp/{{Experiencia.id}}"><i class="fas fa-pencil-alt"></i></button>
+          <button class="btn btn-eliminar" (click)="delete(Experiencia.id)"><i class="fas fa-trash-alt"></i></button>
+        </div>
+      </div>
+    </li>
+  </div>
+</div>

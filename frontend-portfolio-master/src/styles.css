@@ -1,0 +1,11 @@
+/* Imports Google Fonts */
+
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+li {
+    list-style: none;
+}

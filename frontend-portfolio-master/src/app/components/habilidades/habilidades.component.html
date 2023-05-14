@@ -1,0 +1,42 @@
+<div class="habilidades" id="HARD SOFT SKILLS">
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col">
+        <h1>HARD SOFT SKILLS</h1>
+      </div>
+
+
+
+
+      <div class="col-lg-12 col-sm-12 botoneras">
+        <button class="btn btn-habilidad" type="button" routerLink="/nuevohabb" *ngIf="isLogged">
+          <i class="fas fa-plus"></i>
+          <p> Habilidad </p>
+        </button>
+      </div>
+
+
+
+      <div class="row text-center center">
+
+
+        <div class="col-sm-12  col-lg-8" derecha>
+          <button type="button" class="btn nohover">Habilidades</button>
+          <div class="blandas">
+            <ol *ngFor="let Habblandas of habblandas " id="derecho">
+              <p> {{Habblandas.nombreHB }} <br> {{Habblandas.descripHB}}</p>
+
+              <div class="row" *ngIf="isLogged">
+                <div class="col acciones">
+                  <button class="btn btn-eliminar" (click)="deleteHabblandas(Habblandas.id)"><i
+                      class="fas fa-trash-alt"></i></button>
+                </div>
+              </div>
+            </ol>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>

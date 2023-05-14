@@ -1,0 +1,71 @@
+/* Mensaje de bienvenida */
+
+.bienvenida {
+    display: flex;
+    background: rgb(165, 211, 238);
+    font-family: "Manrope", sans-serif;
+    letter-spacing: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+
+.bienvenida p {
+    margin: 3px auto;
+}
+
+/* NavBar */
+
+.navbar {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    background: rgb(192, 219, 235);
+}
+
+.navbar img {
+    margin-left: 3px;
+}
+
+.collapse a {
+    color: rgb(14, 3, 109);
+    font-family: "Manrope", sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.collapse i {
+  color: rgb(14, 3, 109);
+    font-size: 20px;
+    margin: 7px 5px;
+}
+
+.collapse .fa-solid {
+  color: rgb(14, 3, 109);
+    font-size: 19px;
+    margin: 7px 40px;
+}
+
+.collapse a:hover {
+  color: rgb(11, 122, 1);
+}
+
+.collapse i:hover {
+  color: rgb(11, 122, 1);
+}
+
+.collapse .fa-solid:hover {
+  color: rgb(11, 122, 1);
+    cursor: pointer;
+}
+
+nav .collapse {
+    text-align: center;
+}
+
+@media only screen and (max-width: 1097px) and (min-width: 992px) {
+    .navbar img {
+        display: none;
+    }
+}

@@ -1,0 +1,57 @@
+<!--Mensaje de bienvenida-->
+<div class="container-fluid">
+    <div class="row">
+      <div class="bienvenida">
+        <p>BIENVENIDO A MI PORTAFOLIO RESUMEN CURRICULAR</p>
+      </div>
+    </div>
+  </div>
+
+  <!--NavBar-->
+  <nav class="navbar navbar-expand-lg sticky-top">
+      <div class="container-fluid">
+          <div>
+         <a href="https://argentinaprograma.inti.gob.ar/course/view.php?id=14" target="_blank"><img class="img-fluid "  src="/assets/Images/logos argentina.png"   alt="Logo"  width="300px"></a>
+         </div>
+
+          <button class="navbar-toggler mx-5" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="#perfil">Acerca DE MI</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="#HARD SOFT SKILLS">Hard Soft Skills</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#experiencia">Experiencia</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#educacion">Educación</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#proyectos">Proyectos</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                  <a class="nav-link" aria-current="page" *ngIf="persona?.mail" href="mailto:{{persona.mail}}" target="_blank"><i class="fa-regular fa-envelope"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" aria-current="page" *ngIf="persona?.linkedin" href={{persona.linkedin}} target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" *ngIf="persona?.github" href={{persona.github}} target="_blank"><i class="fa-brands fa-github"></i></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="/login" *ngIf="!isLogged"><i class="fa-solid fa-user-lock"></i></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" (click)="onLogOut()" *ngIf="isLogged"><i class="fa-solid fa-right-from-bracket"></i></a>
+          </li>
+          </ul>
+        </div>
+      </div>
+  </nav>

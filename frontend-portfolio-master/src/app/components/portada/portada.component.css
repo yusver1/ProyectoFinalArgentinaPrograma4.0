@@ -1,0 +1,62 @@
+/* Portada */
+
+.portada {
+    background-image: url("./../../../assets/Images/Portada.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.portada a {
+    margin-left: 100px;
+    font-family: 'Signika Negative', sans-serif;
+    color: #1c243c;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.portada a:hover {
+    color: #2e536c;
+    font-weight: bold;
+}
+
+.portada h1 {
+    margin: 100px 0px;
+}
+
+.portada button {
+    background-color: #1c243c;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    margin: -50px auto 50px;
+    font-size: 17px;
+}
+
+.portada a .btn:hover {
+    background-color: transparent;
+    color: #1c243c;
+    border: 2px solid #1c243c;
+}
+
+@media (max-width: 1400px) {
+    .portada h1 {
+        text-align: left;
+    }
+    .portada a {
+        margin-left: 40px;
+    }
+}
+
+@media (max-width: 500px) {
+    .portada h1 {
+        text-align: center;
+    }
+    .portada a {
+        margin-left: auto;
+    }
+    .portada button {
+        display: flex;
+        justify-content: center
+    }
+}

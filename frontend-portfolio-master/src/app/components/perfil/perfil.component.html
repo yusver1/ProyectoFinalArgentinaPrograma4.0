@@ -1,0 +1,25 @@
+<div class="perfil" id="perfil">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="foto col-sm-12 col-lg-3 g-0">
+            <img class="img-fluid" src={{persona.img}}  alt="fotodeperfil"> <!--"/assets/Images/foto yusver.png"-->
+          </div>
+
+          <div class="col-sm-12 col-lg-9 p-5">
+            <div class="row ">
+              <button class="btn btn-perfil derecha" type="button" routerLink="/editacercade/{{persona.id}}" *ngIf="isLogged">
+                <p>Editar información básica</p>
+               </button>
+              <h2> {{persona.nombre}} {{persona.apellido}} <br> Full Stack Developer Jr <br> <h3>tl:1128711817 - 3885296310 - 1123048010 <br> DNI: 95.958.535 </h3></h2>
+              <div class="col botoneras ">
+
+              </div>
+            </div>
+           <h1>Acerca de mi</h1>
+           <P  id="justificar">
+           {{persona.descripcion}}
+           </P>
+          </div>
+      </div>
+    </div>
+</div>
